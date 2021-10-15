@@ -1,1 +1,3 @@
-let a = 0;
+$(function () {
+    $('body').css('background-color', 'red')
+})
